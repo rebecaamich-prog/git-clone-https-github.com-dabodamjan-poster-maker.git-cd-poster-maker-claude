@@ -1,6 +1,6 @@
 # Posting calendar · 4 weeks · Sun–Fri (no Saturday)
 
-**Times:** Metricool best-time data for the connected Instagram account (America/New_York) peaks at **10:00 AM every day**; second peak around **6:00 PM Tue–Thu**. All posts are set to 10:00 AM ET. [CONFIRM] Metricool shows the connected Instagram as "rebecamich". Is that the Eden Era Events account?
+**Times:** Metricool best-time data for the connected Instagram account (America/New_York) peaks at **10:00 AM every day**; second peak around **6:00 PM Tue–Thu**. All posts are set to 10:00 AM ET. Account: **@edeneraevents**. These times came from the personal account; they get re-pulled once @edeneraevents is connected to Metricool.
 
 **Mix:** 14 education (58%) · 6 kit (25%) · 4 consult (17%) · Carousels Sun + Wed · Reels Mon, Tue, Thu, Fri
 
@@ -67,7 +67,7 @@
 - **KIT** → "Here's the Guest of Honor Day-Of Kit: https://www.etsy.com/listing/4593424898/guest-of-honor-day-of-kit-wedding-day 🤍 Your friend runs the day. You enjoy it."
 - **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: https://cal.com/rebeca-amich-fnwvd7/60min 🤍 Let's stress now so the day can be stress-less."
 
-## Bio
+## Bio (@edeneraevents)
 Eden Era Events · Online wedding planning
 Calm, organized, detail-obsessed. Faith-led.
 Comment KIT for the Day-Of Kit · PLAN for a consult

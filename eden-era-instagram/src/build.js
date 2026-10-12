@@ -98,7 +98,7 @@ Switch outfit between every Reel and change hair (down / half-up / ponytail) onc
 // ── posting-calendar.md ─────────────────────────────
 let cal = `# Posting calendar · 4 weeks · Sun–Fri (no Saturday)
 
-**Times:** Metricool best-time data for the connected Instagram account (America/New_York) peaks at **10:00 AM every day**; second peak around **6:00 PM Tue–Thu**. All posts are set to 10:00 AM ET. [CONFIRM] Metricool shows the connected Instagram as "rebecamich". Is that the Eden Era Events account?
+**Times:** Metricool best-time data for the connected Instagram account (America/New_York) peaks at **10:00 AM every day**; second peak around **6:00 PM Tue–Thu**. All posts are set to 10:00 AM ET. Account: **@edeneraevents**. These times came from the personal account; they get re-pulled once @edeneraevents is connected to Metricool.
 
 **Mix:** ${count('Education')} education (${Math.round(count('Education') / 24 * 100)}%) · ${count('Kit')} kit (${Math.round(count('Kit') / 24 * 100)}%) · ${count('Consult')} consult (${Math.round(count('Consult') / 24 * 100)}%) · Carousels Sun + Wed · Reels Mon, Tue, Thu, Fri
 
@@ -111,7 +111,7 @@ for (const p of posts) {
 }
 cal += `\n## Daily Stories (every day Sun–Fri)\n1. Share the day's post to Stories with a sticker (below).\n2. One personal frame: your desk, a planning moment, a verse on a quiet day (about 1 a week).\n3. Fridays: a question box ("Ask me anything about planning"); answer them Mon–Tue as Stories.\n\n| Date | Story sticker |\n|---|---|\n`;
 for (const p of posts) cal += `| ${day(p.date)} ${p.date} | ${p.story} |\n`;
-cal += `\n## Keyword replies (set up as Instagram auto-replies or saved replies)\n- **KIT** → "Here's the Guest of Honor Day-Of Kit: ${L.kit} 🤍 Your friend runs the day. You enjoy it."\n- **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: ${L.consult} 🤍 Let's stress now so the day can be stress-less."\n\n## Bio\nEden Era Events · Online wedding planning\nCalm, organized, detail-obsessed. Faith-led.\nComment KIT for the Day-Of Kit · PLAN for a consult\n🔗 link in bio → kit · consult · ${L.site}\n`;
+cal += `\n## Keyword replies (set up as Instagram auto-replies or saved replies)\n- **KIT** → "Here's the Guest of Honor Day-Of Kit: ${L.kit} 🤍 Your friend runs the day. You enjoy it."\n- **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: ${L.consult} 🤍 Let's stress now so the day can be stress-less."\n\n## Bio (@edeneraevents)\nEden Era Events · Online wedding planning\nCalm, organized, detail-obsessed. Faith-led.\nComment KIT for the Day-Of Kit · PLAN for a consult\n🔗 link in bio → kit · consult · ${L.site}\n`;
 w('posting-calendar.md', cal);
 
 console.log(`OK: ${posts.length} posts · edu ${count('Education')} · kit ${count('Kit')} · consult ${count('Consult')} · ${posts.filter((p) => p.slides).length} carousels · ${reels.length} reels`);

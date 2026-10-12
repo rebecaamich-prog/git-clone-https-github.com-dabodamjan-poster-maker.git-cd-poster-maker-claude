@@ -66,8 +66,6 @@ Comment KIT and I'll send you the link to the Guest of Honor Day-Of Kit. Or tap 
 
 **Story:** Countdown sticker: "Kit launch" + question box "What worries you most about your wedding day?"
 
-[CONFIRM] The "upcoming news" in your video is the kit launch
-
 ---
 ## Tue 2026-10-20 · Reel · Education · CTA PLAN
 **ID:** `w1-tue-budget-buffer` · **Source:** Ultimate Wedding Budget Guide, step 9

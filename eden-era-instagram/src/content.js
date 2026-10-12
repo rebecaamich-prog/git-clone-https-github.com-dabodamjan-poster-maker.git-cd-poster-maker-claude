@@ -69,7 +69,6 @@ ${CTA.KIT}`,
     cta: 'Be the *guest of honor.*',
     script: 'Use the real clip you filmed: "So I\'m really excited to share some upcoming news. I know I\'ve been very distant on here." (Already edited, 12 s.)',
     story: 'Countdown sticker: "Kit launch" + question box "What worries you most about your wedding day?"',
-    confirm: ['The "upcoming news" in your video is the kit launch'],
   },
   {
     id: 'w1-tue-budget-buffer', date: '2026-10-20', format: 'reel', pillar: 'Education', keyword: 'PLAN',
