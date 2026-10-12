@@ -5,7 +5,7 @@ Read at a calm pace (~150 words/min). Every Reel already has a text-and-motion v
 ★ = best as talking-to-camera
 
 ---
-### ★ Mon 2026-10-19 · `w1-mon-talk-upcoming-news`
+### ★ Wed 2026-10-14 · `w1-mon-talk-upcoming-news`
 **Hook (first second, look into the lens):** Upcoming news from Eden Era Events
 
 > Use the real clip you filmed: "So I'm really excited to share some upcoming news. I know I've been very distant on here." (Already edited, 12 s.)

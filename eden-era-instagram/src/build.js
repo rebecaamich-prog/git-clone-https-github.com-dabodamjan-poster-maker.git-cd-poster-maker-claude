@@ -19,7 +19,7 @@ for (const p of posts) {
   const d = day(p.date);
   if (d === 'Sat') errors.push(`${p.id}: Saturday`);
   const wantFmt = ['Sun', 'Wed'].includes(d) ? 'carousel' : 'reel';
-  if (p.format !== wantFmt) errors.push(`${p.id}: ${d} should be ${wantFmt}`);
+  if (p.format !== wantFmt && !p.launch) errors.push(`${p.id}: ${d} should be ${wantFmt}`);
   const all = JSON.stringify(p);
   for (const bad of ['Atlanta', 'Florida', 'Ocala', 'stress-free', 'bridezilla']) if (all.toLowerCase().includes(bad.toLowerCase())) errors.push(`${p.id}: contains "${bad}"`);
   for (const m of all.match(/\$[\d,]+/g) || []) if (!['$1,000', '$3,000', '$5,000', '$50', '$200'].includes(m)) errors.push(`${p.id}: unexpected price ${m}`);
@@ -109,7 +109,7 @@ for (const p of posts) {
   const files = p.format === 'carousel' ? `designs/${p.id}/` : `reels/${p.id}.mp4${p.footage ? ' + talking version' : ''}`;
   cal += `| ${week(p)} | ${day(p.date)} | ${p.date} | ${TIME[day(p.date)]} | ${p.format} | ${p.pillar} | ${p.hook} | ${p.keyword} | \`${files}\` |\n`;
 }
-cal += `\n## Daily Stories (every day Sun–Fri)\n1. Share the day's post to Stories with a sticker (below).\n2. One personal frame: your desk, a planning moment, a verse on a quiet day (about 1 a week).\n3. Fridays: a question box ("Ask me anything about planning"); answer them Mon–Tue as Stories.\n\n| Date | Story sticker |\n|---|---|\n`;
+cal += `\n**Kit launch moved up:** the kit-launch Reel (your real car clip) now goes out **Wed Oct 14, 10:00 AM ET**. That leaves Mon Oct 19 open: film any ★ script from scripts/teleprompter.md for it, or leave it as a rest day.\n\n**Metricool:** all 24 posts are drafts (auto-publish off) on the brand connected to @edeneraevents. Times use Metricool's benchmark (10 AM ET); the account has too little recent activity for its own best-time data.\n\n## Daily Stories (every day Sun–Fri)\n1. Share the day's post to Stories with a sticker (below).\n2. One personal frame: your desk, a planning moment, a verse on a quiet day (about 1 a week).\n3. Fridays: a question box ("Ask me anything about planning"); answer them Mon–Tue as Stories.\n\n| Date | Story sticker |\n|---|---|\n`;
 for (const p of posts) cal += `| ${day(p.date)} ${p.date} | ${p.story} |\n`;
 cal += `\n## Keyword replies (set up as Instagram auto-replies or saved replies)\n- **KIT** → "Here's the Guest of Honor Day-Of Kit: ${L.kit} 🤍 Your friend runs the day. You enjoy it."\n- **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: ${L.consult} 🤍 Let's stress now so the day can be stress-less."\n\n## Bio (@edeneraevents)\nEden Era Events · Online wedding planning\nCalm, organized, detail-obsessed. Faith-led.\nComment KIT for the Day-Of Kit · PLAN for a consult\n🔗 link in bio → kit · consult · ${L.site}\n`;
 w('posting-calendar.md', cal);

@@ -51,7 +51,7 @@ Save this for your first budget meeting. Want help building yours? ${CTA.PLAN}`,
     story: 'Poll: "Have you set your total wedding budget yet?" Yes / Working on it',
   },
   {
-    id: 'w1-mon-talk-upcoming-news', date: '2026-10-19', format: 'reel', pillar: 'Kit', keyword: 'KIT', talking: true,
+    id: 'w1-mon-talk-upcoming-news', date: '2026-10-14', launch: true, format: 'reel', pillar: 'Kit', keyword: 'KIT', talking: true,
     source: 'Rebeca video IMG_6763 + kit listing',
     footage: 'reels/w1-talk-upcoming-news.mp4 (REAL footage, already edited)',
     hook: 'Upcoming news from Eden Era Events',

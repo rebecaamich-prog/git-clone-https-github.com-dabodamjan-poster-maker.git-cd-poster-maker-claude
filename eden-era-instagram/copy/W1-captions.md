@@ -43,7 +43,7 @@ Save this for your first budget meeting. Want help building yours? Comment PLAN 
 **Story:** Poll: "Have you set your total wedding budget yet?" Yes / Working on it
 
 ---
-## Mon 2026-10-19 · Reel · Kit · CTA KIT
+## Wed 2026-10-14 · Reel · Kit · CTA KIT
 **ID:** `w1-mon-talk-upcoming-news` · **Source:** Rebeca video IMG_6763 + kit listing
 
 **Hook:** Upcoming news from Eden Era Events

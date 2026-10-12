@@ -7,7 +7,7 @@
 | Week | Day | Date | Time ET | Format | Pillar | Topic | CTA | Files |
 |---|---|---|---|---|---|---|---|---|
 | W1 | Sun | 2026-10-18 | 10:00 AM | carousel | Education | Your wedding budget in 10 steps (save this before you book anything) | PLAN | `designs/w1-sun-budget-10-steps/` |
-| W1 | Mon | 2026-10-19 | 10:00 AM | reel | Kit | Upcoming news from Eden Era Events | KIT | `reels/w1-mon-talk-upcoming-news.mp4 + talking version` |
+| W1 | Wed | 2026-10-14 | 10:00 AM | reel | Kit | Upcoming news from Eden Era Events | KIT | `reels/w1-mon-talk-upcoming-news.mp4 + talking version` |
 | W1 | Tue | 2026-10-20 | 10:00 AM | reel | Education | The line most wedding budgets forget | PLAN | `reels/w1-tue-budget-buffer.mp4` |
 | W1 | Wed | 2026-10-21 | 10:00 AM | carousel | Kit | Who decides when something goes wrong on your wedding day? | KIT | `designs/w1-wed-kit-green-yellow-red/` |
 | W1 | Thu | 2026-10-22 | 10:00 AM | reel | Education | Not every wedding cost is fixed | PLAN | `reels/w1-thu-fixed-vs-changing.mp4` |
@@ -31,6 +31,10 @@
 | W4 | Thu | 2026-11-12 | 10:00 AM | reel | Consult | Month-of, partial or full planning: which do you need? | PLAN | `reels/w4-thu-which-service.mp4` |
 | W4 | Fri | 2026-11-13 | 10:00 AM | reel | Education | The wedding planning rule I wish every couple kept | KIT | `reels/w4-fri-date-night.mp4` |
 
+**Kit launch moved up:** the kit-launch Reel (your real car clip) now goes out **Wed Oct 14, 10:00 AM ET**. That leaves Mon Oct 19 open: film any ★ script from scripts/teleprompter.md for it, or leave it as a rest day.
+
+**Metricool:** all 24 posts are drafts (auto-publish off) on the brand connected to @edeneraevents. Times use Metricool's benchmark (10 AM ET); the account has too little recent activity for its own best-time data.
+
 ## Daily Stories (every day Sun–Fri)
 1. Share the day's post to Stories with a sticker (below).
 2. One personal frame: your desk, a planning moment, a verse on a quiet day (about 1 a week).
@@ -39,7 +43,7 @@
 | Date | Story sticker |
 |---|---|
 | Sun 2026-10-18 | Poll: "Have you set your total wedding budget yet?" Yes / Working on it |
-| Mon 2026-10-19 | Countdown sticker: "Kit launch" + question box "What worries you most about your wedding day?" |
+| Wed 2026-10-14 | Countdown sticker: "Kit launch" + question box "What worries you most about your wedding day?" |
 | Tue 2026-10-20 | Quiz: "What % buffer should a wedding budget have?" 1% / 5–10% / 25% |
 | Wed 2026-10-21 | Poll: "Who would run your wedding day?" A planner / A trusted friend |
 | Thu 2026-10-22 | Question box: "What's the one thing you WON'T cut from your budget?" |
