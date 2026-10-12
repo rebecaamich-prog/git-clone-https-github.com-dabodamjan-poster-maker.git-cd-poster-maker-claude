@@ -1,0 +1,13 @@
+[
+ {"id":"sample-kit-gyr","slides":[
+  {"type":"cover","eyebrow":"Wedding day problems","title":"Who decides when\nsomething goes\n*wrong?*","sub":"Use the Green, Yellow, Red rule so it's never you.","swipe":"Swipe"},
+  {"type":"point","step":"","eyebrow":"Green: handle it","title":"A vendor is\n10 minutes late.","body":"Your helper fixes it and logs it.\nYou never hear about it."},
+  {"type":"point","eyebrow":"Yellow: ask, then act","title":"The caterer wants\n$200 extra.","body":"Your helper texts your Decider first.\nNo surprise charges."},
+  {"type":"point","eyebrow":"Red: safety first","title":"A guest\nfeels faint.","body":"Call 911 if needed.\nThen tell the Decider."},
+  {"type":"list","eyebrow":"Your helper never","title":"Write the limits *down*","items":["Signs contracts","Pays with their own money","Serves alcohol","Makes legal choices"]},
+  {"type":"cta","eyebrow":"Be the guest of honor","title":"Your friend runs the day.\n*You enjoy it.*","keyword":"KIT","sub":"The Guest of Honor Day-Of Kit · link in bio"}
+ ]},
+ {"id":"sample-consult","slides":[
+  {"type":"cover","theme":"sage","eyebrow":"Online wedding planning","title":"Let's stress *now*\nso the day can be\nstress-less.","sub":"A 60-minute virtual consult, $50."}
+ ]}
+]

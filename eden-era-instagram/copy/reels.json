@@ -1,0 +1,11 @@
+[
+ {"id":"sample-reel-gyr","theme":"cream","duration":15,
+  "beats":[
+   {"t":0,"d":2.5,"eyebrow":"Wedding day problems","text":"Who decides when\nsomething goes *wrong?*"},
+   {"t":2.5,"d":2.5,"eyebrow":"Green","text":"Vendor is late?\n*Handle it.*","small":true},
+   {"t":5,"d":2.5,"eyebrow":"Yellow","text":"Extra charge?\n*Ask, then act.*","small":true},
+   {"t":7.5,"d":2.5,"eyebrow":"Red","text":"Someone is hurt?\n*Safety first.*","small":true},
+   {"t":10,"d":2.3,"text":"Your helper knows\nthe rule. *You don't\nlift a finger.*","small":true}
+  ],
+  "cta":{"t":12.3,"keyword":"KIT","line":"Be the *guest of honor.*"}}
+]
