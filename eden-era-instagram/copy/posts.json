@@ -1,13 +1,453 @@
 [
- {"id":"sample-kit-gyr","slides":[
-  {"type":"cover","eyebrow":"Wedding day problems","title":"Who decides when\nsomething goes\n*wrong?*","sub":"Use the Green, Yellow, Red rule so it's never you.","swipe":"Swipe"},
-  {"type":"point","step":"","eyebrow":"Green: handle it","title":"A vendor is\n10 minutes late.","body":"Your helper fixes it and logs it.\nYou never hear about it."},
-  {"type":"point","eyebrow":"Yellow: ask, then act","title":"The caterer wants\n$200 extra.","body":"Your helper texts your Decider first.\nNo surprise charges."},
-  {"type":"point","eyebrow":"Red: safety first","title":"A guest\nfeels faint.","body":"Call 911 if needed.\nThen tell the Decider."},
-  {"type":"list","eyebrow":"Your helper never","title":"Write the limits *down*","items":["Signs contracts","Pays with their own money","Serves alcohol","Makes legal choices"]},
-  {"type":"cta","eyebrow":"Be the guest of honor","title":"Your friend runs the day.\n*You enjoy it.*","keyword":"KIT","sub":"The Guest of Honor Day-Of Kit · link in bio"}
- ]},
- {"id":"sample-consult","slides":[
-  {"type":"cover","theme":"sage","eyebrow":"Online wedding planning","title":"Let's stress *now*\nso the day can be\nstress-less.","sub":"A 60-minute virtual consult, $50."}
- ]}
+ {
+  "id": "w1-sun-budget-10-steps",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding budget guide",
+    "title": "Your wedding\nbudget in\n*10 steps*",
+    "sub": "Do them in this order and every decision after gets easier.",
+    "swipe": "Save this"
+   },
+   {
+    "type": "list",
+    "eyebrow": "Start here",
+    "title": "Know your *numbers*",
+    "items": [
+     "Look at the full picture: savings, income, family help",
+     "Set a total you can *comfortably* afford",
+     "Name your top priorities. Spend more there."
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "Then",
+    "title": "Decide what *drives* cost",
+    "start": 4,
+    "items": [
+     "Pick a guest count early. It touches almost every line.",
+     "Fixed costs (venue, photographer) vs. changing costs (catering)",
+     "Break it into categories"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "The 8 categories",
+    "title": "Where it *goes*",
+    "itemSize": 30,
+    "items": [
+     "Venue · Catering",
+     "Photography / Videography",
+     "Decor & Floral · Entertainment",
+     "Attire · Stationery · Favors"
+    ],
+    "start": 1,
+    "note": ""
+   },
+   {
+    "type": "list",
+    "eyebrow": "Keep it on track",
+    "title": "Protect the *plan*",
+    "start": 7,
+    "items": [
+     "Research and compare quotes",
+     "Track every payment, deposit and due date",
+     "Add a 5–10% buffer for surprises",
+     "Review and adjust regularly"
+    ]
+   },
+   {
+    "type": "point",
+    "eyebrow": "Planner tip",
+    "title": "Venue and catering\nare usually the\n*biggest* lines.",
+    "body": "Guest count moves catering. That's why step 4 comes so early."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Want help building yours?",
+    "title": "Let's stress *now*\nso the day can be\nstress-less.",
+    "keyword": "PLAN",
+    "sub": "60-minute virtual consult · $50 · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w1-wed-kit-green-yellow-red",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding day problems",
+    "title": "Who decides\nwhen something\ngoes *wrong?*",
+    "sub": "Use the Green, Yellow, Red rule so it's never you.",
+    "swipe": "Swipe"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Green: handle it",
+    "title": "A vendor is\n10 minutes late.",
+    "body": "Your helper fixes it and logs it.\nYou never hear about it."
+   },
+   {
+    "type": "point",
+    "eyebrow": "Yellow: ask, then act",
+    "title": "The caterer wants\n$200 extra.",
+    "body": "Your helper texts your Decider first.\nNo surprise charges."
+   },
+   {
+    "type": "point",
+    "eyebrow": "Red: safety first",
+    "title": "A guest\nfeels faint.",
+    "body": "Call 911 if needed.\nThen tell the Decider."
+   },
+   {
+    "type": "list",
+    "eyebrow": "Your helper never",
+    "title": "Write the limits *down*",
+    "items": [
+     "Signs contracts",
+     "Pays with their own money",
+     "Serves alcohol",
+     "Makes legal choices"
+    ]
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Be the guest of honor",
+    "title": "Your friend\nruns the day.\n*You enjoy it.*",
+    "keyword": "KIT",
+    "sub": "Guest of Honor Day-Of Kit · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w2-sun-venue-questions",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding venue tours",
+    "title": "*12 questions*\nto ask before\nyou sign",
+    "sub": "The more you know up front, the smoother everything after.",
+    "swipe": "Save for your tour"
+   },
+   {
+    "type": "list",
+    "eyebrow": "Availability & logistics",
+    "title": "Can it *work?*",
+    "items": [
+     "Is our date available?",
+     "What's the maximum seating capacity?",
+     "How many hours are included (setup to cleanup)?"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "What's included",
+    "title": "What are we *paying* for?",
+    "start": 4,
+    "items": [
+     "What's in the rental fee? Tables, chairs, linens?",
+     "Any decoration rules? (candles, string lights, florals)",
+     "Do you offer in-house catering? Tastings?",
+     "Can we bring our own caterer? Any fees?"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "Guest experience",
+    "title": "Will guests be *comfortable?*",
+    "start": 8,
+    "items": [
+     "Is parking on-site? Valet?",
+     "Where can out-of-town guests stay nearby?",
+     "What's the backup plan for an outdoor ceremony?"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "Policies & money",
+    "title": "No *surprises*",
+    "start": 11,
+    "items": [
+     "What are the deposit and cancellation policies?",
+     "What's the payment schedule?"
+    ]
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Touring venues?",
+    "title": "I'll help you\n*compare* them.",
+    "keyword": "PLAN",
+    "sub": "60-minute virtual consult · $50 · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w2-wed-kit-timeline",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding day timeline",
+    "title": "Build a timeline\nthat doesn't\n*break*",
+    "sub": "One page. What happens, when, and who owns it.",
+    "swipe": "Swipe"
+   },
+   {
+    "type": "list",
+    "eyebrow": "Build it",
+    "title": "Start in the *middle*",
+    "items": [
+     "Write your ceremony time in the middle",
+     "List hard stops: venue end, sunset, music curfew",
+     "Work backward: getting ready, vendors, photos, setup",
+     "Work forward: cocktails, dinner, toasts, send-off"
+    ]
+   },
+   {
+    "type": "point",
+    "eyebrow": "Padding rule 1",
+    "title": "+15 minutes",
+    "body": "when 5 or more people\nmust move together."
+   },
+   {
+    "type": "point",
+    "eyebrow": "Padding rule 2",
+    "title": "+20 minutes",
+    "body": "when a car, shuttle\nor parking lot is involved."
+   },
+   {
+    "type": "point",
+    "eyebrow": "Padding rule 3",
+    "title": "Family photos *multiply*",
+    "body": "Ask your photographer how long each group takes. Then multiply by your number of groups."
+   },
+   {
+    "type": "point",
+    "title": "Your ceremony may\nstart a few\nminutes *late.*",
+    "body": "Don't build a timeline that breaks if it does."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Inside the kit",
+    "title": "Change one number.\n*The times update.*",
+    "keyword": "KIT",
+    "sub": "Google Sheets planner · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w3-sun-guest-list",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding guest list",
+    "title": "Build your\nguest list\nwithout the *drama*",
+    "sub": "6 steps that balance people, budget and space.",
+    "swipe": "Swipe"
+   },
+   {
+    "type": "point",
+    "step": "01",
+    "title": "Budget and\nvenue *first*",
+    "body": "How many fit? What can you spend per guest? Keep a buffer for surprises."
+   },
+   {
+    "type": "point",
+    "step": "02",
+    "title": "Your core\n*people*",
+    "body": "Family, close friends, wedding party. The people you can't imagine the day without."
+   },
+   {
+    "type": "point",
+    "step": "03",
+    "title": "A *two-tier* list",
+    "body": "Tier one: must invite. Tier two: invite as RSVPs come in, if space and budget allow."
+   },
+   {
+    "type": "point",
+    "step": "04",
+    "title": "Plus-ones and\nkids: decide *early*",
+    "body": "Then say it clearly on your invitation or wedding website."
+   },
+   {
+    "type": "point",
+    "step": "05",
+    "title": "RSVP deadline:\n*4–6 weeks* out",
+    "body": "Give travelers time. Follow up when it passes."
+   },
+   {
+    "type": "point",
+    "step": "06",
+    "title": "Plan for\n*no-shows*",
+    "body": "Not everyone you invite will come. Use your final RSVPs to set catering and seating."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Guest list stress?",
+    "title": "I'll track RSVPs\nso you *don't* have to.",
+    "keyword": "PLAN",
+    "sub": "Partial planning starting at $3,000 · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w3-wed-what-planner-does",
+  "slides": [
+   {
+    "type": "cover",
+    "theme": "sage",
+    "eyebrow": "Online wedding planning",
+    "title": "5 things a planner\ntakes off your\n*plate*",
+    "sub": "Even if you love DIY.",
+    "swipe": "Swipe"
+   },
+   {
+    "type": "list",
+    "eyebrow": "What I handle",
+    "title": "So you *don't* have to",
+    "itemSize": 32,
+    "items": [
+     "*Budget:* set it, then stay within it",
+     "*Vendors:* when to book, what to ask, contracts",
+     "*Design:* your Pinterest board, made real",
+     "*RSVPs:* tracked and followed up",
+     "*The day:* timeline, vendors, hiccups"
+    ]
+   },
+   {
+    "type": "point",
+    "title": "Hiccups handled\nwithout you\never *knowing.*",
+    "body": "That's the whole job on the day."
+   },
+   {
+    "type": "list",
+    "eyebrow": "Online · wherever you marry",
+    "title": "Ways to work *together*",
+    "itemSize": 30,
+    "items": [
+     "Month-of coordination · starting at $1,000",
+     "Partial planning · starting at $3,000",
+     "Full planning · starting at $5,000",
+     "Not sure? 60-min virtual consult · $50"
+    ]
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Let's talk",
+    "title": "Don't stress\nthe *details.*",
+    "keyword": "PLAN",
+    "sub": "Book your consult · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w4-sun-dress-shopping",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding dress shopping",
+    "title": "How to prepare\nfor dress\n*shopping*",
+    "sub": "7 tips so you leave feeling like the best version of you.",
+    "swipe": "Save for your appointment"
+   },
+   {
+    "type": "list",
+    "eyebrow": "Before you go",
+    "title": "Set yourself *up*",
+    "items": [
+     "Set your budget first",
+     "Keep an open mind",
+     "Bring a small, honest group"
+    ]
+   },
+   {
+    "type": "point",
+    "eyebrow": "From my own appointment",
+    "title": "I was sure about\nA-line. I fell for\na *mermaid* dress.",
+    "body": "Try the style you'd never pick."
+   },
+   {
+    "type": "list",
+    "eyebrow": "In the dressing room",
+    "title": "*Test-drive* it",
+    "start": 4,
+    "items": [
+     "Walk, sit, dance and hug in it",
+     "Visit more than one shop to compare",
+     "Take photos and videos of each one",
+     "Enjoy every moment"
+    ]
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Dress done. What's next?",
+    "title": "Let's plan the\n*rest* together.",
+    "keyword": "PLAN",
+    "sub": "60-minute virtual consult · $50 · link in bio"
+   }
+  ]
+ },
+ {
+  "id": "w4-wed-kit-everything",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Wedding day coordinator kit",
+    "title": "Guest of Honor\n*Day-Of Kit*",
+    "sub": "Everything a trusted friend needs to run your day.",
+    "swipe": "See inside"
+   },
+   {
+    "type": "list",
+    "eyebrow": "What you get",
+    "title": "Everything in *one* kit",
+    "items": [
+     "26-page guide in plain words",
+     "Google Sheets planner you copy",
+     "Printable binder pages",
+     "Final 48 Hours checklist",
+     "\"The Forgotten Five\""
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "The 10 steps",
+    "title": "From \"yes\" to *\"I do\"*",
+    "itemSize": 29,
+    "items": [
+     "Choose your Deputy",
+     "Hand off the plan",
+     "Build the timeline",
+     "Fill in contacts",
+     "Green, Yellow, Red rule"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "The 10 steps",
+    "title": "Short pages. *Plain words.*",
+    "start": 6,
+    "itemSize": 29,
+    "items": [
+     "Pack the emergency kit",
+     "Send the messages",
+     "Run the rehearsal",
+     "Follow the playbook",
+     "Plan the send-off"
+    ]
+   },
+   {
+    "type": "point",
+    "eyebrow": "Inside the planner",
+    "title": "Change one number.\n*The times update*\nby themselves.",
+    "body": "Timeline, contacts, Permission Slip, handoff notes, Final 48 Hours."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Be the guest of honor",
+    "title": "Your friend\nruns the day.\n*You enjoy it.*",
+    "keyword": "KIT",
+    "sub": "Digital download on Etsy · link in bio"
+   }
+  ]
+ }
 ]

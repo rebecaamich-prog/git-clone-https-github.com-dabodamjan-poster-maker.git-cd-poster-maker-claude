@@ -6,7 +6,7 @@
 - Typical engagement: **partial planning**, then a smooth, seamless wedding day.
 - Main stress: overwhelm. Planning tasks piling on top of demanding jobs; they stress easily when decisions stack up.
 - What Rebeca gives them: guidance, calm, de-stressing the details, a wedding day that runs smoothly.
-- Reference couple: "Alexy & Jordan" — internal persona only. Do not name them publicly or quote them without written permission. [CONFIRM]
+- Reference couple: a past partial-planning couple (names kept private). Do not name or quote real clients without written permission.
 
 ## 2. What they fear
 1. **Budget**: overspending, surprise costs.

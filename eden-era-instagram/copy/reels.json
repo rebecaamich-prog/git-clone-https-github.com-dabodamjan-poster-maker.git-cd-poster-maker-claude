@@ -1,11 +1,754 @@
 [
- {"id":"sample-reel-gyr","theme":"cream","duration":15,
-  "beats":[
-   {"t":0,"d":2.5,"eyebrow":"Wedding day problems","text":"Who decides when\nsomething goes *wrong?*"},
-   {"t":2.5,"d":2.5,"eyebrow":"Green","text":"Vendor is late?\n*Handle it.*","small":true},
-   {"t":5,"d":2.5,"eyebrow":"Yellow","text":"Extra charge?\n*Ask, then act.*","small":true},
-   {"t":7.5,"d":2.5,"eyebrow":"Red","text":"Someone is hurt?\n*Safety first.*","small":true},
-   {"t":10,"d":2.3,"text":"Your helper knows\nthe rule. *You don't\nlift a finger.*","small":true}
+ {
+  "id": "w1-mon-talk-upcoming-news",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Big news",
+    "text": "I've been *quiet* here.\nHere's why.",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "For couples",
+    "text": "Who can't hire a\n*day-of coordinator*",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "A plan your\n*friend* can run",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "Inside",
+    "text": "26-page guide.\nPlanner. *Printables.*",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Your friend runs the day.\n*You enjoy it.*",
+    "small": true
+   }
   ],
-  "cta":{"t":12.3,"keyword":"KIT","line":"Be the *guest of honor.*"}}
+  "cta": {
+   "t": 13,
+   "keyword": "KIT",
+   "line": "Be the *guest of honor.*"
+  }
+ },
+ {
+  "id": "w1-tue-budget-buffer",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Wedding budget",
+    "text": "The line most\nbudgets *forget*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "A *5–10%*\nbuffer",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "It covers",
+    "text": "Extra decor.\n*Weather* changes.",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Last-minute\n*surprises*",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Build it in *before*\nyou book anything",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Let's build your budget *together.*"
+  }
+ },
+ {
+  "id": "w1-thu-fixed-vs-changing",
+  "theme": "sage",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Wedding budget",
+    "text": "Not every cost\nis *fixed*",
+    "small": false
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Fixed",
+    "text": "Venue.\n*Photographer.*",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Changes",
+    "text": "Catering moves with\nevery *guest*",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "So adjust the\n*guest list* first",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "Planner tip",
+    "text": "A *buffet* can often\nlower catering costs",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Want a budget that *bends* without breaking?"
+  }
+ },
+ {
+  "id": "w1-fri-why-i-care-cana",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Why I do this",
+    "text": "Why I care about\nyour *details*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "John 2",
+    "text": "The first miracle was\nat a *wedding*",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "The wine ran out.\nHe *cared.*",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Weddings *matter.*\nSo do the details.",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "So nothing runs out.\nAnd you get to be *present.*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "I'm Rebeca. Let's *plan* yours."
+  }
+ },
+ {
+  "id": "w2-mon-venue-questions-forgotten",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Venue tours",
+    "text": "3 questions couples\n*forget* to ask",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "1",
+    "text": "How many *hours*\nare included?",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Setup + event +\n*cleanup*",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "2",
+    "text": "Can we bring our own\ncaterer? *Any fee?*",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "3",
+    "text": "What's the plan\nif it *rains?*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Ask *before* you sign."
+  }
+ },
+ {
+  "id": "w2-tue-rental-fee",
+  "theme": "sage",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Venue pricing",
+    "text": "Same price.\n*Not* the same deal.",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Venue A",
+    "text": "Tables, chairs,\nlinens *included*",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Venue B",
+    "text": "A *blank slate.*\nYou rent it all.",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Ask for the\n*included* list",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Then compare\n*prices*",
+    "small": false
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Want a second set of *eyes?*"
+  }
+ },
+ {
+  "id": "w2-thu-venue-money",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Before the deposit",
+    "text": "Read this before you\npay a *venue*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Ask",
+    "text": "What's the deposit\nand *cancellation* policy?",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Ask",
+    "text": "What's the\n*payment schedule?*",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Some want it all\nmonths *ahead*",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Know the money\ntimeline *first*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Know before you *sign.*"
+  }
+ },
+ {
+  "id": "w2-fri-kit-choose-deputy",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Wedding day",
+    "text": "Who's in *charge*\non your day?",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "If not a coordinator...\npick a *Deputy*",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "One friend\nyou *trust*",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Hand off the plan in\none *90-minute* talk",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "A willing friend becomes\na *confident* one",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "KIT",
+   "line": "Be the *guest of honor.*"
+  }
+ },
+ {
+  "id": "w3-mon-two-tier-list",
+  "theme": "sage",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Guest list",
+    "text": "The trick that saves\nso much *stress*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Tier one",
+    "text": "Your *must-invite*\nlist",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Tier two",
+    "text": "Love to invite, if\n*space* allows",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "A \"no\" RSVP\ncomes in...",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Invite someone\nfrom *tier two*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Need help with the *list?*"
+  }
+ },
+ {
+  "id": "w3-tue-rsvp-deadline",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "RSVPs",
+    "text": "When should your\nRSVP *deadline* be?",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "*4–6 weeks*\nbefore the wedding",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Travelers need\n*extra* time",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "Deadline passed?",
+    "text": "*Follow up.*\nDon't wait and hope.",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Your head count sets\n*catering* and seating",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "I'll chase the RSVPs. *You relax.*"
+  }
+ },
+ {
+  "id": "w3-thu-kit-deputy-never",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Your wedding helper",
+    "text": "Things they should\n*never* do",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Never",
+    "text": "Sign *contracts*",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Never",
+    "text": "Pay with their\n*own* money",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "Never",
+    "text": "Drive a guest\n*who drank*",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "They say",
+    "text": "\"That's not my call, but\nI'll get you to *who decides*.\"",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "KIT",
+   "line": "Put it in *writing.*"
+  }
+ },
+ {
+  "id": "w3-fri-plus-ones-kids",
+  "theme": "sage",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Guest list",
+    "text": "Plus-ones and kids:\n*what we did*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Plus-ones",
+    "text": "Only *married* or\nlong-term couples",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Kids",
+    "text": "Only from families\ntraveling *far*",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Decide *early*",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Say it *clearly*\non your invite or website",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Need help deciding?"
+  }
+ },
+ {
+  "id": "w4-mon-test-drive-dress",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Dress shopping",
+    "text": "Don't say yes until\nyou do *this*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "*Walk* in it",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "*Sit* in it",
+    "small": false
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "*Dance* and hug in it",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Comfort matters as\nmuch as *style*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "More planning help?"
+  }
+ },
+ {
+  "id": "w4-tue-venue-coordinator-vs-planner",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Know the difference",
+    "text": "Venue coordinator\n≠ *wedding planner*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Venue coordinator",
+    "text": "Focuses on\nthe *venue*",
+    "small": false
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Wedding planner",
+    "text": "Focuses on *you*\nand your whole day",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Vendors. Budget.\n*Timeline.*",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "Option",
+    "text": "Month-of coordination\nstarting at *$1,000*",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Not sure what you need?"
+  }
+ },
+ {
+  "id": "w4-thu-which-service",
+  "theme": "sage",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "Which do you need?",
+    "text": "Month-of, partial\nor *full* planning?",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "Month-of",
+    "text": "You planned it.\nI *bring it home.*\nStarting at $1,000",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "Partial",
+    "text": "You started.\nI *guide* the rest.\nStarting at $3,000",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "Full",
+    "text": "With you from\nthe *start.*\nStarting at $5,000",
+    "small": true
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "All *online,*\nwherever you marry",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "PLAN",
+   "line": "Not sure? *Let's talk.*"
+  }
+ },
+ {
+  "id": "w4-fri-date-night",
+  "theme": "cream",
+  "duration": 16.2,
+  "beats": [
+   {
+    "t": 0,
+    "d": 2.6,
+    "eyebrow": "A planning rule",
+    "text": "The one I wish every\ncouple *kept*",
+    "small": true
+   },
+   {
+    "t": 2.6,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Date nights.\n*No wedding talk.*",
+    "small": true
+   },
+   {
+    "t": 5.2,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "*Delegate.*\nPeople want to help.",
+    "small": true
+   },
+   {
+    "t": 7.8,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "Protect your\n*rest*",
+    "small": false
+   },
+   {
+    "t": 10.4,
+    "d": 2.6,
+    "eyebrow": "",
+    "text": "A rested you is the\n*best gift* on the day",
+    "small": true
+   }
+  ],
+  "cta": {
+   "t": 13,
+   "keyword": "KIT",
+   "line": "Let a friend run the *day.*"
+  }
+ }
 ]

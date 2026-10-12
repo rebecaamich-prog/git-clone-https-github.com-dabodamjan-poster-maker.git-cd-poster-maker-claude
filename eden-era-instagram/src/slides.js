@@ -28,11 +28,11 @@ const layouts = {
   </div>`),
 
   // Numbered list. {eyebrow, title, items:[...], start}
-  list: (s) => page(s.theme || 'white', `${counter(s)}<div class="pad" style="padding-top:130px">
-    <div class="eyebrow" style="font-size:24px;margin-bottom:26px">${esc(s.eyebrow)}</div>
-    <div class="h" style="font-size:${s.size || 78}px;margin-bottom:34px">${rich(s.title)}</div>
-    ${s.items.map((it, i) => `<div class="row"><span class="num" style="font-size:52px;min-width:70px">${String((s.start || 1) + i).padStart(2, '0')}</span>
-      <span class="p" style="font-size:${s.itemSize || 34}px;color:var(--ink)">${rich(it)}</span></div>`).join('')}
+  list: (s) => page(s.theme || 'white', `${counter(s)}<div class="pad" style="justify-content:center;padding-bottom:150px">
+    <div class="eyebrow" style="font-size:26px;margin-bottom:28px">${esc(s.eyebrow)}</div>
+    <div class="h" style="font-size:${s.size || 96}px;margin-bottom:40px">${rich(s.title)}</div>
+    ${s.items.map((it, i) => `<div class="row" style="padding:28px 0"><span class="num" style="font-size:64px;min-width:92px">${String((s.start || 1) + i).padStart(2, '0')}</span>
+      <span class="p" style="font-size:${s.itemSize ? s.itemSize + 8 : 42}px;line-height:1.3;color:var(--ink)">${rich(it)}</span></div>`).join('')}
   </div>`),
 
   // One idea per slide. {step, title, body, note}
@@ -40,7 +40,7 @@ const layouts = {
     ${s.step ? `<div class="num" style="font-size:150px;line-height:1;margin-bottom:24px">${esc(s.step)}</div>` : ''}
     ${s.eyebrow ? `<div class="eyebrow" style="font-size:24px;margin-bottom:30px">${esc(s.eyebrow)}</div>` : ''}
     <div class="h" style="font-size:${s.size || 86}px">${rich(s.title)}</div>
-    ${s.body ? `<div class="p" style="font-size:36px;margin-top:40px">${rich(s.body)}</div>` : ''}
+    ${s.body ? `<div class="p" style="font-size:42px;margin-top:44px">${rich(s.body)}</div>` : ''}
     ${s.note ? `<div class="p" style="font-size:28px;margin-top:44px;padding:28px 34px;background:rgba(243,237,224,.7);border:1.5px solid var(--rule);color:var(--ink)">${rich(s.note)}</div>` : ''}
   </div>`),
 
