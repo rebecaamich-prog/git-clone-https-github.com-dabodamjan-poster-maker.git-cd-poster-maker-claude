@@ -11,3 +11,6 @@ Status: the live site could not be loaded from this work environment (network po
 | 5 | Missing spaces in titles (words run together) | Page and post titles | Re-type titles | reported, needs visual check |
 | 6 | Any Atlanta, Florida or Ocala references in page body copy | Home, About, Services | Neutralize to "online" / "wherever you're getting married" | needs visual check |
 | 7 | The site's last update was 2025-01-03 | Whole site | Refresh the services page with current pricing ("starting at") and the $50 virtual consult | verified (WP metadata) |
+| 8 | The "5 Things" post's CTA links to an old Calendly page (calendly.com/hello-edeneraevents/consultation), not the current consult | "5 Things Your Atlanta Wedding Planner…" closing line | Replace with https://cal.com/rebeca-amich-fnwvd7/60min | verified (Google Doc source) |
+| 9 | The "5 Things" post promises "stress-free"; brand voice is "stress-less" | Point 5 | Change to "stress-less" | verified (Google Doc source) |
+| 10 | The "5 Things" post has Markdown residue in its first heading ("# **Budgeting…**") | Point 1 heading | Re-type the heading as plain text | verified (Google Doc source) |

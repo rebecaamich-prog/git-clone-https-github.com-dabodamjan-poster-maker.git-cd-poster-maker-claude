@@ -19,11 +19,10 @@ const fontFaces = `
 @font-face{font-family:Body;font-weight:600;src:url(${font('inter', 'inter-latin-600-normal.woff2')})}
 `;
 
-// Wordmark: monogram + small caps name, matching the Etsy listing images.
-const wordmark = (color) => `
-<div class="wm" style="color:${color}">
-  <span class="mono" style="border-color:${color}">E</span><span>Eden Era Events</span>
-</div>`;
+// Real logo (assets/logo-*.png, extracted from Rebeca's logo file), tinted per background.
+const logo = (variant) => 'data:image/png;base64,' + fs.readFileSync(path.join(__dirname, '..', 'assets', `logo-${variant}.png`)).toString('base64');
+const logoFor = { [C.gold]: 'gold', [C.goldOnSage]: 'goldlight', [C.sage]: 'sage', [C.creamLight]: 'cream' };
+const wordmark = (color, h = 46) => `<img class="wm" src="${logo(logoFor[color] || 'sage')}" style="height:${h}px">`;
 
 const baseCss = (W, H) => `
 ${fontFaces}
@@ -36,8 +35,7 @@ body{font-family:Body,sans-serif;color:${C.ink};-webkit-font-smoothing:antialias
 .h{font-family:Display;font-weight:400;line-height:1.02;color:var(--ink)}
 .h em{font-style:italic;color:var(--accent)}
 .p{font-family:Body;font-weight:400;line-height:1.45;color:var(--body)}
-.wm{display:flex;align-items:center;gap:14px;font-family:Display;font-weight:600;font-size:30px;letter-spacing:.14em;text-transform:uppercase}
-.wm .mono{width:44px;height:44px;border:1.5px solid;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:24px;letter-spacing:0}
+.wm{display:block}
 .num{font-family:Display;font-weight:400;color:var(--accent)}
 .row{display:flex;gap:34px;align-items:baseline;padding:22px 0;border-bottom:1.5px solid var(--rule)}
 .pill{display:inline-block;padding:16px 30px;border-radius:999px;background:var(--accent);color:var(--bg);font-family:Body;font-weight:600;letter-spacing:.08em;text-transform:uppercase}

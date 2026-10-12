@@ -1,0 +1,13 @@
+[
+ {"id":"w1-talk-upcoming-news","source":"/root/.claude/uploads/b5068414-3de5-5423-9d32-46e3444da32c/a371f8f6-IMG_6763.MOV","hdr":true,
+  "keep":[[1.05,5.85],[7.4,10.65]],
+  "hook":{"text":"*Upcoming news*\nfrom Eden Era Events","until":2.6},
+  "captions":[
+   {"text":"So I'm really excited","s":1.05,"e":2.78},
+   {"text":"to share some","s":2.78,"e":3.94},
+   {"text":"upcoming news.","s":3.94,"e":5.85},
+   {"text":"I know I've been","s":7.4,"e":9.12},
+   {"text":"very distant on here.","s":9.12,"e":10.65}
+  ],
+  "end":{"line":"The Guest of Honor\nDay-Of Kit is *here.*","keyword":"KIT","duration":4}}
+]
