@@ -65,10 +65,13 @@
 
 ## Keyword replies (set up as Instagram auto-replies or saved replies)
 - **KIT** → "Here's the Guest of Honor Day-Of Kit: https://www.etsy.com/listing/4593424898/guest-of-honor-day-of-kit-wedding-day 🤍 Your friend runs the day. You enjoy it."
-- **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: https://cal.com/rebeca-amich-fnwvd7/60min. Let's stress now so the day can be stress-less."
+- **PLAN** → "So glad you reached out! Book a 60-minute virtual consult ($50) here: https://cal.com/rebeca-amich-fnwvd7/60min 🤍 Let's stress now so the day can be stress-less."
 
 ## Bio
 Eden Era Events · Online wedding planning
 Calm, organized, detail-obsessed. Faith-led.
 Comment KIT for the Day-Of Kit · PLAN for a consult
 🔗 link in bio → kit · consult · https://edeneraevents.com
+
+## Metricool status (2026-10-12)
+All 24 posts are in Metricool as **drafts** (draft = on, auto-publish = off) at 10:00 AM ET on their dates. Nothing will publish until you open each one, review it, and schedule it. Week 1 Monday uses your real talking video. Reels have no music, so add trending audio in the Instagram app or in Metricool's audio picker (keep it low under your voice).
