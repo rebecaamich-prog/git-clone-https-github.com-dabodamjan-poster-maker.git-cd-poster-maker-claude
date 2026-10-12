@@ -167,5 +167,3 @@ Comment PLAN and I'll send you my calendar for a 60-minute virtual consult ($50)
 **On-screen beats:** Why I do this: Why I care about your details → John 2: The first miracle was at a wedding → The wine ran out. He cared. → Weddings matter. So do the details. → So nothing runs out. And you get to be present. → CTA: I'm Rebeca. Let's plan yours. / Comment PLAN
 
 **Story:** Behind the scenes: your planning desk + "Ask me anything about planning" question box
-
-[CONFIRM] Hashtag #christianwedding fits "foundational but quiet" faith (or drop it)

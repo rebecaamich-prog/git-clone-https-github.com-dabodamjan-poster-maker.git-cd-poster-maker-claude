@@ -72,6 +72,3 @@ Eden Era Events · Online wedding planning
 Calm, organized, detail-obsessed. Faith-led.
 Comment KIT for the Day-Of Kit · PLAN for a consult
 🔗 link in bio → kit · consult · https://edeneraevents.com
-
-## Metricool status (2026-10-12)
-All 24 posts are in Metricool as **drafts** (draft = on, auto-publish = off) at 10:00 AM ET on their dates. Nothing will publish until you open each one, review it, and schedule it. Week 1 Monday uses your real talking video. Reels have no music, so add trending audio in the Instagram app or in Metricool's audio picker (keep it low under your voice).

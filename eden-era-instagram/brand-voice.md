@@ -46,7 +46,7 @@ Words to avoid: not yet given. Default avoid list until Rebeca edits it: "bridez
 | Service | Partial planning (ideal-client tier) | starting at $3,000 | PLAN |
 | Service | Full planning | starting at $5,000 | PLAN |
 
-- Site tiers assumed current; Rebeca did not object. [CONFIRM]
+- Site tiers confirmed current by Rebeca (2026-10-12).
 - Is the $50 consult fee credited toward a package if they book? [CONFIRM]
 
 ## 7. What makes Rebeca different

@@ -149,7 +149,6 @@ ${CTA.PLAN}`,
     cta: 'I\'m Rebeca. Let\'s *plan* yours.',
     script: 'Do you know where Jesus did his first miracle? At a wedding. The wine ran out, and he cared enough to make sure that couple wasn\'t embarrassed. Weddings matter. That\'s why I sweat the details, so nothing runs out and you get to be present. I\'m Rebeca. Comment PLAN and let\'s talk.',
     story: 'Behind the scenes: your planning desk + "Ask me anything about planning" question box',
-    confirm: ['Hashtag #christianwedding fits "foundational but quiet" faith (or drop it)'],
   },
 
   // ───────────── WEEK 2 · Venue + timeline ─────────────
